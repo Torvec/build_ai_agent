@@ -1,2 +1,2 @@
-# build_ai_agent
-Build an AI Agent
+# Build An AI Agent
+A boot.dev project
